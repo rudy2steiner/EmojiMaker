@@ -4,7 +4,7 @@
   <img src="./public/banner.png" height="300" />
 </p>
 
-Generate your own Fluent Emojis!
+Generate your own Fluent Emojis!Hi
 
 [fluent-emoji.ddiu.io](https://fluent-emoji.ddiu.io/)
 
