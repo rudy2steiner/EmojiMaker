@@ -13,7 +13,7 @@ export default () => {
         <span pr-1>by Microsoft. Remixed and partially modified.</span>
       </p>
       <p mt-1 text-center text-sm text-neutral-400>
-        <span pr-1>Made by</span>
+        <span pr-1>Thanks </span>
         <a
           text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400
@@ -25,7 +25,7 @@ export default () => {
         <a
           text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400
-          href="https://github.com/ddiu8081/fluent-emoji-maker" target="_blank"
+          href="https://github.com/rudy2steiner/EmojiMaker" target="_blank"
         >
           Source Code
         </a>
